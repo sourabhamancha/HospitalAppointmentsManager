@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Main View
+
+index.html
+
+![](app-images/Main.png)
+
+## Adding a new appointment
+
+![](app-images/Add.png)
+
+## Searching appointments
+
+Searches keywords through names, addresses and concerns
+
+![](app-images/Search.png)
+
+## Sorting appointments
+
+Sorting appointments on mutiple criteria
+
+![](app-images/Sort.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
